@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MedicalSite/static/css/main.0269082b.css",
-    "main.js": "/MedicalSite/static/js/main.c8a8b36b.js",
-    "static/media/marvel_characters.jpg": "/MedicalSite/static/media/marvel_characters.e8da7f6594293e6a4b48.jpg",
-    "static/media/error_img.png": "/MedicalSite/static/media/error_img.56782ca118a7ce2c13c9.png",
-    "static/media/marvel_heroes.jpg": "/MedicalSite/static/media/marvel_heroes.2ddb5201b588d742f0f2.jpg",
-    "static/media/marvel.png": "/MedicalSite/static/media/marvel.c62c859021025ac58899.png",
-    "index.html": "/MedicalSite/index.html",
-    "main.0269082b.css.map": "/MedicalSite/static/css/main.0269082b.css.map",
-    "main.c8a8b36b.js.map": "/MedicalSite/static/js/main.c8a8b36b.js.map"
+    "main.css": "/static/css/main.6ad4a887.css",
+    "main.js": "/static/js/main.6e568c16.js",
+    "static/media/marvel_characters.jpg": "/static/media/marvel_characters.e8da7f6594293e6a4b48.jpg",
+    "static/media/error_img.png": "/static/media/error_img.56782ca118a7ce2c13c9.png",
+    "static/media/marvel_heroes.jpg": "/static/media/marvel_heroes.2ddb5201b588d742f0f2.jpg",
+    "static/media/marvel.png": "/static/media/marvel.c62c859021025ac58899.png",
+    "index.html": "/index.html",
+    "main.6ad4a887.css.map": "/static/css/main.6ad4a887.css.map",
+    "main.6e568c16.js.map": "/static/js/main.6e568c16.js.map"
   },
   "entrypoints": [
-    "static/css/main.0269082b.css",
-    "static/js/main.c8a8b36b.js"
+    "static/css/main.6ad4a887.css",
+    "static/js/main.6e568c16.js"
   ]
 }
