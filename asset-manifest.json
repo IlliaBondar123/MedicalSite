@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/MedicalSite/static/css/main.0269082b.css",
-    "main.js": "/MedicalSite/static/js/main.ef19abd4.js",
+    "main.js": "/MedicalSite/static/js/main.96c7be12.js",
     "static/media/marvel_characters.jpg": "/MedicalSite/static/media/marvel_characters.e8da7f6594293e6a4b48.jpg",
     "static/media/error_img.png": "/MedicalSite/static/media/error_img.56782ca118a7ce2c13c9.png",
     "static/media/marvel_heroes.jpg": "/MedicalSite/static/media/marvel_heroes.2ddb5201b588d742f0f2.jpg",
     "static/media/marvel.png": "/MedicalSite/static/media/marvel.c62c859021025ac58899.png",
     "index.html": "/MedicalSite/index.html",
     "main.0269082b.css.map": "/MedicalSite/static/css/main.0269082b.css.map",
-    "main.ef19abd4.js.map": "/MedicalSite/static/js/main.ef19abd4.js.map"
+    "main.96c7be12.js.map": "/MedicalSite/static/js/main.96c7be12.js.map"
   },
   "entrypoints": [
     "static/css/main.0269082b.css",
-    "static/js/main.ef19abd4.js"
+    "static/js/main.96c7be12.js"
   ]
 }
